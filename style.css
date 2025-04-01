@@ -407,6 +407,7 @@ span {
 }
 
 .contact form .btn {
+  border:0;
   margin-top:2rem;
   cursor:pointer;
 } 
